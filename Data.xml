@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DataList>
+  <Browser>chrome</Browser>
+  <URL>https://www.ag-grid.com/example.php</URL>
+  <Game>Battleship</Game>
+  <MayBreakDown>$79,809</MayBreakDown>
+  <Column>Game Name</Column>
+</DataList>
